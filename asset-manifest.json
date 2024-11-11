@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ee09c50e.css",
+    "main.js": "/static/js/main.1deedb8f.js",
+    "static/media/NeueHaasUnica-Regular.woff": "/static/media/NeueHaasUnica-Regular.bc0c1c6a007a46a19e84.woff",
+    "static/media/NeueHaasUnica-Regular.woff2": "/static/media/NeueHaasUnica-Regular.8fe530d4dedfc86fd966.woff2",
+    "static/media/Ресурс 2 1 1 (1).svg": "/static/media/Ресурс 2 1 1 (1).8728f5db985b2da015465752053dffe0.svg",
+    "index.html": "/index.html",
+    "main.ee09c50e.css.map": "/static/css/main.ee09c50e.css.map",
+    "main.1deedb8f.js.map": "/static/js/main.1deedb8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee09c50e.css",
+    "static/js/main.1deedb8f.js"
+  ]
+}
