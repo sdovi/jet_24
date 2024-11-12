@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6e7757c8.css",
-    "main.js": "/static/js/main.9e1d50f3.js",
+    "main.js": "/static/js/main.014638db.js",
     "static/media/20443151 1.png": "/static/media/20443151 1.9e8d3f93e9c6ff498cad.png",
     "static/media/29434 1.png": "/static/media/29434 1.bde932bc912b930bfe3b.png",
     "static/media/image 2.png": "/static/media/image 2.60337b2c896fd0f67308.png",
@@ -16,10 +16,10 @@
     "static/media/JET24_Icon_RentVilla-01 1.svg": "/static/media/JET24_Icon_RentVilla-01 1.744c011cac1a4ee09fd2e42108e22c30.svg",
     "index.html": "/index.html",
     "main.6e7757c8.css.map": "/static/css/main.6e7757c8.css.map",
-    "main.9e1d50f3.js.map": "/static/js/main.9e1d50f3.js.map"
+    "main.014638db.js.map": "/static/js/main.014638db.js.map"
   },
   "entrypoints": [
     "static/css/main.6e7757c8.css",
-    "static/js/main.9e1d50f3.js"
+    "static/js/main.014638db.js"
   ]
 }
