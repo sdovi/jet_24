@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.ee09c50e.css",
-    "main.js": "/static/js/main.1deedb8f.js",
+    "main.css": "/static/css/main.6e7757c8.css",
+    "main.js": "/static/js/main.9e1d50f3.js",
+    "static/media/20443151 1.png": "/static/media/20443151 1.9e8d3f93e9c6ff498cad.png",
+    "static/media/29434 1.png": "/static/media/29434 1.bde932bc912b930bfe3b.png",
+    "static/media/image 2.png": "/static/media/image 2.60337b2c896fd0f67308.png",
     "static/media/NeueHaasUnica-Regular.woff": "/static/media/NeueHaasUnica-Regular.bc0c1c6a007a46a19e84.woff",
+    "static/media/JET24_Icon_Crew-01 2.svg": "/static/media/JET24_Icon_Crew-01 2.4ec41f8c38ec88e168a0758bb8eb4349.svg",
     "static/media/NeueHaasUnica-Regular.woff2": "/static/media/NeueHaasUnica-Regular.8fe530d4dedfc86fd966.woff2",
     "static/media/Ресурс 2 1 1 (1).svg": "/static/media/Ресурс 2 1 1 (1).8728f5db985b2da015465752053dffe0.svg",
+    "static/media/JET24_Icon_Details-01 1.svg": "/static/media/JET24_Icon_Details-01 1.be69a3c1bc12118b5a1fa7bbc479f26c.svg",
+    "static/media/JET24_Icon_Gastronomy-01 1.svg": "/static/media/JET24_Icon_Gastronomy-01 1.2b34a1c7269abea989d3b21246d6c63c.svg",
+    "static/media/JET24_Icon_RentYacht-01 1.svg": "/static/media/JET24_Icon_RentYacht-01 1.ff3f0fee1b4999caf125f5dd37b78434.svg",
+    "static/media/JET24_Icon_FullOperation-01 1.svg": "/static/media/JET24_Icon_FullOperation-01 1.faad09b1d0f48b88c248b7777ae5fab1.svg",
+    "static/media/JET24_Icon_RentVilla-01 1.svg": "/static/media/JET24_Icon_RentVilla-01 1.744c011cac1a4ee09fd2e42108e22c30.svg",
     "index.html": "/index.html",
-    "main.ee09c50e.css.map": "/static/css/main.ee09c50e.css.map",
-    "main.1deedb8f.js.map": "/static/js/main.1deedb8f.js.map"
+    "main.6e7757c8.css.map": "/static/css/main.6e7757c8.css.map",
+    "main.9e1d50f3.js.map": "/static/js/main.9e1d50f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee09c50e.css",
-    "static/js/main.1deedb8f.js"
+    "static/css/main.6e7757c8.css",
+    "static/js/main.9e1d50f3.js"
   ]
 }
