@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab9ba376.css",
-    "main.js": "/static/js/main.d4be856e.js",
+    "main.css": "/static/css/main.d8617591.css",
+    "main.js": "/static/js/main.1b0beb0a.js",
     "static/media/20443151 1.png": "/static/media/20443151 1.9e8d3f93e9c6ff498cad.png",
     "static/media/Mask group.png": "/static/media/Mask group.ff5e9fa62c9f41d3d16d.png",
     "static/media/1.png": "/static/media/1.745422e018bf1bcbd269.png",
@@ -31,11 +31,11 @@
     "static/media/JET24_Icon_MedCorporate_2-01 1.svg": "/static/media/JET24_Icon_MedCorporate_2-01 1.48ea01793b5bd333a3ebc952cc0c0e4b.svg",
     "static/media/JET24_Icon_RentVilla-01 1.svg": "/static/media/JET24_Icon_RentVilla-01 1.744c011cac1a4ee09fd2e42108e22c30.svg",
     "index.html": "/index.html",
-    "main.ab9ba376.css.map": "/static/css/main.ab9ba376.css.map",
-    "main.d4be856e.js.map": "/static/js/main.d4be856e.js.map"
+    "main.d8617591.css.map": "/static/css/main.d8617591.css.map",
+    "main.1b0beb0a.js.map": "/static/js/main.1b0beb0a.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab9ba376.css",
-    "static/js/main.d4be856e.js"
+    "static/css/main.d8617591.css",
+    "static/js/main.1b0beb0a.js"
   ]
 }
